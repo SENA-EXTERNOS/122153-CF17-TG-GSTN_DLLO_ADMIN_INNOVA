@@ -18,6 +18,7 @@
         p Comencemos hablando de los procesos de innovación en las empresas, los cuales son una fuente de generación de valor, puesto que permiten mejoras y creación de nuevas líneas o formas de hacer las cosas. Un modelo de innovación proporciona unos criterios para ir desde el descubrimiento de la necesidad o el reto, para luego pasar a resolverlo, transitando por el perfeccionamiento de una solución práctica y completando un modelo de negocio, para garantizar la sostenibilidad y darle impulso a su escalamiento.
         p.mb-5 Un modelo de innovación se ubica en busca de proyectos deseables, factibles técnicamente y viables económicamente; la innovación exige realizar mejoras para agregar valor para los consumidores y que se encuentren dispuestos a pagar por este progreso. Recurrentemente, asociamos el término innovación con el de cambio; innovar representa transformación en los procesos y utilizar la creatividad para generar nuevas ideas.
 
+    p.mb-5 En cuanto a los modelos de innovación, existen varios que dirigen este proceso de ingenio empresarial:
 
     .row.mb-5.justify-content-center
       .col-md-6.col-lg-4.mb-5.mb-lg-0.row2
@@ -44,6 +45,7 @@
             .p-4.mt-3
               h2.text-center Enfoque <em>push</em> 
               p.text-center Sucede cuando primero se desarrolla el producto o servicio, y luego se trata de introducir al mercado, descubriendo sus diferentes utilidades y explorando sus potencialidades.
+
 
     .row.justify-content-between
       .col-md-6.col-lg-5.mb-3
@@ -81,6 +83,8 @@
       .col-lg-4
         figure
             img(src='@/assets/curso/temas/tema1/img-7.png')
+
+    p.mb-5 Asimismo, dichos procesos se encuentran soportados por cuatro tipos de recursos. Conozcamos cada uno de ellos:
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Capital humano")
@@ -129,7 +133,7 @@
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-12.svg')  
 
-    p.mb-3 Cuando se habla de descubrir, se hace referencia a la capacidad de observar y determinar las necesidades, los requerimientos o las oportunidades de mejora de los procesos, productos o servicios. Esta fase procura recabar información de interés para identificar dónde se debe realizar una intervención.
+    p.mb-3 Cuando se habla de <b>descubrir,</b> se hace referencia a la capacidad de observar y determinar las necesidades, los requerimientos o las oportunidades de mejora de los procesos, productos o servicios. Esta fase procura recabar información de interés para identificar dónde se debe realizar una intervención.
     p.mb-5 Algunas de las herramientas de apoyo para esa recolección de información pueden ser: 
 
 
@@ -421,7 +425,7 @@
         p.text-center.px-3 <b>Reducción de costos,</b>  a partir de la gestión ágil del proyecto y logrando con ello la eliminación del escenario de fracaso, a través de la identificación de errores a lo largo del desarrollo de este. 
 
 
-    p.mb-5 En la Figura 2 se dan a conocer los principios de las metodologías ágiles, los cuales surgen para facilitar la comprensión del concepto.
+    p.mb-5 En la figura 2 se dan a conocer los principios de las metodologías ágiles, los cuales surgen para facilitar la comprensión del concepto.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -431,7 +435,7 @@
           br
           em Principios de las metodologías ágiles
         figure.px-3
-          img(src='@/assets/curso/temas/tema1/img-43.svg')      
+          img(src='@/assets/curso/temas/tema1/img-43-.svg')      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -441,28 +445,28 @@
     p.mb-5 Las metodologías ágiles que se explican a continuación, permiten la alineación entre los equipos de trabajo y el cliente o consumidor, así como también la identificación y resolución de problemáticas de forma ágil, la respuesta oportuna, la reducción de los riesgos, y un proyecto de calidad.
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Scrum")
+      .py-3.py-md-4(titulo="<em>Scrum</em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema1/img-44.svg')                     
           .col-md-6.mb-4.mb-md-0
-            p.mb-3 Se caracteriza por ser la “metodología del caos”, y está basada en el desarrollo incremental de la estructura, fraccionando los proyectos grandes en pequeños proyectos y por etapas, análisis, desarrollo y testing. Es una metodología que se hace posible si existe un conocimiento amplio del equipo de trabajo, funciones y roles bien caracterizados por las partes interesadas. Quien lidera el ejercicio, crea una lista de prioridades y delega para que se vayan realizando entregas y avances en la solución, con el fin de normalizar los errores que se puedan ir presentando; también las reuniones frecuentes como característica principal para definición del plan, decisiones y reflexión de retroalimentación. Los elementos claves por los cuales se mueve el Scrum, son: innovación, flexibilidad, productividad y competitividad.
-      .py-3.py-md-4(titulo="Kanban")
+            p.mb-3 Se caracteriza por ser la<em> “metodología del caos”</em>, y está basada en el desarrollo incremental de la estructura, fraccionando los proyectos grandes en pequeños proyectos y por etapas, análisis, desarrollo y <em>testing</em>. Es una metodología que se hace posible si existe un conocimiento amplio del equipo de trabajo, funciones y roles bien caracterizados por las partes interesadas. Quien lidera el ejercicio, crea una lista de prioridades y delega para que se vayan realizando entregas y avances en la solución, con el fin de normalizar los errores que se puedan ir presentando; también las reuniones frecuentes como característica principal para definición del plan, decisiones y reflexión de retroalimentación. Los elementos claves por los cuales se mueve el <em>Scrum</em>, son: innovación, flexibilidad, productividad y competitividad.
+      .py-3.py-md-4(titulo="<em>Kanban</em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema1/img-45.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 También conocida como tarjeta visual, porque representa una herramienta muy importante y de utilidad para los responsables de los proyectos. Consiste en la elaboración de un diagrama o cuadro en el que se distribuyen las tareas en tres columnas clasificadas en pendientes, en proceso o en terminadas, teniendo esta información al alcance de todos los participantes y posibilitando el control a partir de la eliminación de tareas repetidas o del olvido de algunas de ellas. Ayuda entonces a mejorar la eficiencia y la productividad del equipo. Pueden reconocerse como ventajas de esta metodología, la planificación de tareas, la mejora en el rendimiento del equipo de trabajo, las métricas visuales y los plazos de entrega permanentes.
-      .py-3.py-md-4(titulo="Smart")
+      .py-3.py-md-4(titulo="<em>Smart</em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema1/img-46.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Es una herramienta que ayuda en el planteamiento de metas claras desde el inicio de los proyectos, dado que establece los objetivos conforme a cinco elementos, para que sea exitoso; las metas deben ser específicas, medibles, alcanzables, relevantes y tener un plazo definido para su cumplimiento. Es una estrategia basada en el ahorro, en tanto que se establece la cantidad de dinero objetivo y ayuda para hacer un seguimiento financiero a la ejecución del proyecto. 
-      .py-3.py-md-4(titulo="Lean")
+      .py-3.py-md-4(titulo="<em>Lean</em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3

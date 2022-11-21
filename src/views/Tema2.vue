@@ -17,7 +17,7 @@
       .col-md-6.col-lg-7
         p Es importante conocer que el análisis que se despliega a partir de la generación de información en la fase diagnóstica de una empresa, proporciona, a la organización, la oportunidad de generar soluciones ante sus necesidades, dependiendo ellas, de su situación en el mercado, su situación interna y sus objetivos a futuro y contemplando en esto, las posibilidades de ser innovadores en sus prácticas.
 
-    p.mb-5 Existen dos tipos de diagnóstico organizacional, el funcional y el cultural, y a partir de ellos puede darse la captura de información relevante para la empresa y sus requerimientos.
+    p.mb-5 Existen dos tipos de diagnóstico organizacional, el funcional y el cultural, y a partir de ellos puede darse la<b> captura de información</b> relevante para la empresa y sus requerimientos.
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4
@@ -101,22 +101,25 @@
               li 
                 i.fas.fa-check
                 | Análisis de redes de comunicación: se analiza cómo es la comunicación entre las personas dentro de la organización.
+
+    p.mb-5 Ahora, la obtención de información viabiliza el uso de esa información para la toma de decisiones, a partir del análisis e interpretación; para esto, existen unas herramientas y técnicas, una vez se cuenta con el contenido del diagnóstico, que se presenta en el siguiente tema. 
+
     separador 
 
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1 Instrumentos y matrices de análisis estratégico
-
+    p.mb-5 Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterativa, o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
     p.mb-5 Por esta razón, a continuación se presentan algunos instrumentos de análisis estratégico:
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="<em>Análisis PESTEL </em>")
+      .py-3.py-md-4(titulo="Análisis<em> PESTEL </em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema2/img-4.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Además de tener en cuenta las variables políticas, económicas, sociales y tecnológicas, se analizan también las ecológicas, como el cambio climático y las consecuencias que puede tener el sector turístico o de aseguradoras, la influencia de las leyes de protección medioambiental o las regulaciones en materia de gestión de residuos o de energías. Y, por otro lado, las variables legales, analizando desde este factor, las leyes en defensa del consumidor, antimonopolio, licencias, legislación laboral, leyes de protección de la salud, entre otras.
-      .py-3.py-md-4(titulo="<em>Análisis DOFA – FODA </em>")
+      .py-3.py-md-4(titulo="Análisis<em> DOFA – FODA </em>")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
@@ -131,8 +134,7 @@
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema2/img-6.svg')                     
           .col-md-6.mb-4.mb-md-0
-            p.mb-3 Una herramienta de análisis estratégico que posibilita analizar la situación interna y externa de una empresa o proyecto; análogamente es como la fotografía de la empresa o el proyecto, en un momento determinado de tiempo. Sin embargo, al tener en cuenta que la cotidianidad no es estática y por el contrario, presenta constante evolución; además de ser una herramienta utilizada para elaborar planes de negocio, resulta conveniente repetirla en el tiempo, para reconocer la situación real en la que se desenvuelve, con el fin de planear en función de ella, la estrategia de futuro más adecuada. 
-            p El nombre de esta herramienta está representado por las siglas que significan: Fortalezas, Oportunidades, Debilidades y Amenazas. Las fortalezas y debilidades forman parte del análisis interno, de las cosas que se pueden controlar, mientras que las oportunidades y las amenazas hacen parte del análisis externo, es decir, de las cosas o variables que no dependen de la empresa y, por lo tanto, no se pueden controlar. Este análisis permite realizar cruces de variables obtenidas, entendiendo que las debilidades, con la adopción de estrategias adecuadas, pueden convertirse en fortalezas; asimismo, las amenazas, con la respectiva intervención de la empresa en la medida de sus capacidades y posibilidades, pueden convertirse en oportunidades. 
+            p.mb-3 Son aquellos objetivos generales que la organización debe alcanzar para cumplir con los objetivos estratégicos, porque su alineación y estrecha relación con la estrategia de la empresa es directa y, por lo tanto, con alta influencia sobre los resultados estratégicos. Es decir, que si la empresa detecta estos factores críticos de éxito y logra potencializar sus resultados, materializará la generación de valor y resultados positivos a nivel estratégico para la empresa. Por ejemplo, si se define como factor crítico de éxito para el aumento de la conciencia de marca, termina siendo un objetivo ambicioso pero gran generador de valor y de presencia en el mercado. Para trabajar en el logro de este objetivo, es preciso y necesario que los equipos asignados para trabajar en el tema, puedan definir los Indicadores Clave de Rendimiento (KPI) de manera cuantitativa, para tener claridad frente al panorama sobre lo que se debe hacer, cuándo y cómo.
             
     p.mb-5 Es así como los instrumentos de análisis representan la posibilidad de obtener información que, en sí misma, no debe ser una decisión, sino que convocan a realizar interpretaciones del contexto y de las realidades que vive la empresa o el proyecto. Ahora bien, también existen ilustraciones que posibilitan visualmente organizar la información para ser analizada de manera efectiva y eficiente; por esta razón, vamos a conocer sobre ellas.
 
@@ -170,7 +172,7 @@
           h3.text-center Matrices de evaluación
           p.text-center Proporcionan una valoración de aspectos internos o externos de la empresa, para proyectar una orientación acerca de la estrategia a emprender, de acuerdo con la realidad evidenciada.
 
-    p.mb-5 Determinadas matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión. Analice algunas de ellas en el documento Matrices análisis estratégico.
+    p.mb-5 Determinadas matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión. Analice algunas de ellas en el documento <b>Matrices análisis estratégico</b>.
 
 
 
@@ -241,7 +243,7 @@
           em Pasos para generar indicadores de gestión
 
         figure.px-3
-          img(src='@/assets/curso/temas/tema2/img-13.svg')  
+          img(src='@/assets/curso/temas/tema2/img-13-.svg')  
 
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
@@ -312,6 +314,8 @@
       .col-lg-10
         .cajon.color-acento-botones.p-4.fnd-2
             p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+
+
 
 </template>
 

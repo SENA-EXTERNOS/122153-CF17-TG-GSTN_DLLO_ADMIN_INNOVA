@@ -123,32 +123,116 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Metodologías de innovación',
+      referencia:
+        'Flores-Cerna, F., Sanhueza-Salazar, V. M., Valdés-González, H. M. & Reyes-Bozo, L. (2022). Metodologías ágiles: un análisis de los desafíos organizacionales para su implementación. <em>Revista científica,</em> 43(1).',
+      tipo: 'Artículo',
+      link:
+        'https://revistas.udistrital.edu.co/index.php/revcie/article/view/18332',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Instrumentos y matrices de análisis estratégico',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Técnicas de planeación estratégica</em> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=tTTeEk2PySs',
+    },
+    {
+      tema: 'Instrumentos y matrices de análisis estratégico',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <em>Matriz DOFA </em>(video). YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=84fuGpQeYg0',
+    },
+    {
+      tema: 'Indicadores de gestión e informes de diagnóstico',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Clasificación de los indicadores</em> (video). YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=RhvHUVVLaBg',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis',
+      significado:
+        'examen detallado de una cosa para conocer sus características o cualidades, o su estado, y extraer conclusiones.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Capital humano',
+      significado:
+        'valor económico o de producción procedente de la formación y experiencia de los trabajadores. En teoría económica se usa el concepto de capital humano para estimar el valor productivo y económico de las habilidades profesionales de los empleados.',
+    },
+    {
+      termino: 'Cliente',
+      significado:
+        'persona que utiliza los servicios de un profesional o de una empresa, o que compra en un establecimiento comercial o público, especialmente si lo hace de forma regular.',
+    },
+    {
+      termino: 'Consumidor',
+      significado:
+        'persona que consume bienes y productos en una sociedad de mercado.',
+    },
+    {
+      termino: 'Diseño',
+      significado:
+        'actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos.',
+    },
+    {
+      termino: 'Empatía',
+      significado:
+        'participación afectiva de una persona en una realidad ajena a ella, generalmente en los sentimientos de otra persona.',
+    },
+    {
+      termino: 'Indicadores',
+      significado:
+        'dato o información que sirve para conocer o valorar las características y la intensidad de un hecho, o para determinar su evolución futura.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'aplicación de nuevas ideas, conceptos, productos, servicios y prácticas, con la intención de ser útiles para el incremento de la productividad y la competitividad.',
+    },
+    {
+      termino: 'Metodología',
+      significado:
+        'ciencia del método y conjunto de métodos que se siguen en una investigación científica o en una exposición doctrinal”.',
+    },
+    {
+      termino: 'Organización',
+      significado:
+        'grupo de personas y medios organizados con un fin determinado.',
     },
   ],
   referencias: [
     {
       referencia: '',
       link: '',
+    },
+
+    {
+      referencia:
+        'Cuatrecasas Arbós, L. (2012). <em>Organización de la producción y dirección de operaciones: sistemas actuales de gestión eficiente y competitiva.</em> Díaz de Santos.',
+    },
+    {
+      referencia:
+        'De Pablos, F. y Lasa, M. (2017).<em> Dibújalo: Innova, crea y comunica de manera visual.</em> Editorial LID.',
+    },
+    {
+      referencia:
+        'Galván, L. (2017). <em>Creatividad para el cambio: innovación para la vida y la empresa.</em> Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'García Cediel, G. y Carrillo Bautista, M. (2016). <em>Indicadores de gestión. Manual básico de aplicación para Mipyme.</em>Ediciones de la U.',
+    },
+    {
+      referencia:
+        'González Millán, J. J. y Rodríguez Díaz, M. T. (2020).<em> Manual práctico de planeación estratégica.</em> Díaz de Santos.',
+    },
+    {
+      referencia:
+        'Quinteros Camacho, J. y Hamann Pastorino, A. (2017). Planeamiento estratégico prospectivo: métodos MACTOR y SMIC. Ecoe Ediciones.',
     },
   ],
   creditos: {
