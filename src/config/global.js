@@ -196,7 +196,7 @@ export default {
     {
       termino: 'Metodología',
       significado:
-        'ciencia del método y conjunto de métodos que se siguen en una investigación científica o en una exposición doctrinal”.',
+        'ciencia del método y conjunto de métodos que se siguen en una investigación científica o en una exposición doctrinal.',
     },
     {
       termino: 'Organización',

@@ -112,14 +112,14 @@
     p.mb-5 Por esta razón, a continuación se presentan algunos instrumentos de análisis estratégico:
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Análisis<em> PESTEL </em>")
+      .py-3.py-md-4(titulo="Análisis PESTEL")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img.img-240(src='@/assets/curso/temas/tema2/img-4.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Además de tener en cuenta las variables políticas, económicas, sociales y tecnológicas, se analizan también las ecológicas, como el cambio climático y las consecuencias que puede tener el sector turístico o de aseguradoras, la influencia de las leyes de protección medioambiental o las regulaciones en materia de gestión de residuos o de energías. Y, por otro lado, las variables legales, analizando desde este factor, las leyes en defensa del consumidor, antimonopolio, licencias, legislación laboral, leyes de protección de la salud, entre otras.
-      .py-3.py-md-4(titulo="Análisis<em> DOFA – FODA </em>")
+      .py-3.py-md-4(titulo="Análisis DOFA – FODA ")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
@@ -128,7 +128,7 @@
             p.mb-3 Una herramienta de análisis estratégico que posibilita analizar la situación interna y externa de una empresa o proyecto; análogamente es como la fotografía de la empresa o el proyecto, en un momento determinado de tiempo. Sin embargo, al tener en cuenta que la cotidianidad no es estática y por el contrario, presenta constante evolución; además de ser una herramienta utilizada para elaborar planes de negocio, resulta conveniente repetirla en el tiempo, para reconocer la situación real en la que se desenvuelve, con el fin de planear en función de ella, la estrategia de futuro más adecuada. 
             p El nombre de esta herramienta está representado por las siglas que significan: Fortalezas, Oportunidades, Debilidades y Amenazas. Las fortalezas y debilidades forman parte del análisis interno, de las cosas que se pueden controlar, mientras que las oportunidades y las amenazas hacen parte del análisis externo, es decir, de las cosas o variables que no dependen de la empresa y, por lo tanto, no se pueden controlar. Este análisis permite realizar cruces de variables obtenidas, entendiendo que las debilidades, con la adopción de estrategias adecuadas, pueden convertirse en fortalezas; asimismo, las amenazas, con la respectiva intervención de la empresa en la medida de sus capacidades y posibilidades, pueden convertirse en oportunidades. 
 
-      .py-3.py-md-4(titulo="<em>Factores críticos de éxito (CSF) </em>")
+      .py-3.py-md-4(titulo="Factores críticos de éxito (CSF) ")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
@@ -231,7 +231,7 @@
 
     p.mb-5 Existen diversos tipos de indicadores de gestión:
     figure.mb-5 
-      img(src='@/assets/curso/temas/tema2/img-12.png')
+      img(src='@/assets/curso/temas/tema2/img-12-.png')
 
     p.mb-5 Ahora, para generar o crear indicadores de gestión, se deben tener en cuenta diferentes pasos, evidenciados en la Figura 3, porque el nivel de credibilidad y certeza del indicador dependerá de su asertividad en la formulación. 
 
@@ -245,16 +245,17 @@
         figure.px-3
           img(src='@/assets/curso/temas/tema2/img-13-.svg')  
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
         .bloque-texto-e.p-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p Como lo indican García y Carrillo: “La necesidad de obtener información oportuna, fiable y rápida para que las empresas puedan controlar la evolución de su actividad y, más concretamente, los resultados obtenidos, hace necesaria la generación de indicadores que permitan, en primer lugar, medir la actuación de los diferentes responsables; en segundo lugar, valorar e informar sobre el cumplimiento y evolución de los objetivos fijados; y, por último, prever la evolución presente y futura del negocio”. (p.16) 
+            h3.text-regular Como lo indican García y Carrillo: “La necesidad de obtener información oportuna, fiable y rápida para que las empresas puedan controlar la evolución de su actividad y, más concretamente, los resultados obtenidos, hace necesaria la generación de indicadores que permitan, en primer lugar, medir la actuación de los diferentes responsables; en segundo lugar, valorar e informar sobre el cumplimiento y evolución de los objetivos fijados; y, por último, prever la evolución presente y futura del negocio”. (p.16)
+            i.fas.fa-quote-right
           .row.align-items-end
-            .col
-              .bloque-texto-e__autor
-                .h5.mb-0 García y Carrillo(p.16) 
-                  |      
-                  i.fas.fa-quote-right
+              .bloque-texto-e__autor 
+                .h3.mb-0 García y Carrillo(p.16)          
+
 
     p.mb-5 En ámbitos de la innovación, también existen indicadores útiles para medir avances en la materia; enunciemos algunos ejemplos: 
 
@@ -286,14 +287,14 @@
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img-17.svg' alt='AvatarTop')
-              .tarjeta.color-acento-botones.fnd-11-
+              .tarjeta.color-acento-botones.fnd-1
                 .p-4
                   p.text-center Ingresos generados por nuevas ideas.
 
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema2/img-18.svg' alt='AvatarTop')
-              .tarjeta.color-acento-botones.fnd-1
+              .tarjeta.color-acento-botones.fnd-11-
                 .p-4
                   p.text-center Porcentaje de ventas de nuevos productos.    
 

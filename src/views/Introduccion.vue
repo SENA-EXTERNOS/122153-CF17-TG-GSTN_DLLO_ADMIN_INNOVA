@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/img-intro.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p <b>Apreciado aprendiz, bienvenido a este componente formativo,</b> donde se presenta información de interés sobre el diagnóstico y análisis empresarial y cómo los resultados obtenidos aportan al ejercicio de transformación y cambio, desde la innovación. Encontrará la explicación y el uso de algunas herramientas y técnicas que ayudan a estructurar la recolección de información y la generación de propuestas de cambio e innovación, con el fin de dar respuesta a las dinámicas y requerimientos de los consumidores y clientes. 
+            p Apreciado aprendiz, bienvenido a este componente formativo, donde se presenta información de interés sobre el diagnóstico y análisis empresarial y cómo los resultados obtenidos aportan al ejercicio de transformación y cambio, desde la innovación. Encontrará la explicación y el uso de algunas herramientas y técnicas que ayudan a estructurar la recolección de información y la generación de propuestas de cambio e innovación, con el fin de dar respuesta a las dinámicas y requerimientos de los consumidores y clientes. 
 
     br 
     br

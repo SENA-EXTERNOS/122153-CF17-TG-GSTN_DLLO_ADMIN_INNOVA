@@ -18,7 +18,7 @@
         p Comencemos hablando de los procesos de innovación en las empresas, los cuales son una fuente de generación de valor, puesto que permiten mejoras y creación de nuevas líneas o formas de hacer las cosas. Un modelo de innovación proporciona unos criterios para ir desde el descubrimiento de la necesidad o el reto, para luego pasar a resolverlo, transitando por el perfeccionamiento de una solución práctica y completando un modelo de negocio, para garantizar la sostenibilidad y darle impulso a su escalamiento.
         p.mb-5 Un modelo de innovación se ubica en busca de proyectos deseables, factibles técnicamente y viables económicamente; la innovación exige realizar mejoras para agregar valor para los consumidores y que se encuentren dispuestos a pagar por este progreso. Recurrentemente, asociamos el término innovación con el de cambio; innovar representa transformación en los procesos y utilizar la creatividad para generar nuevas ideas.
 
-    p.mb-5 En cuanto a los modelos de innovación, existen varios que dirigen este proceso de ingenio empresarial:
+    p.mb-5 En cuanto a los <b>modelos de innovación,</b> existen varios que dirigen este proceso de ingenio empresarial:
 
     .row.mb-5.justify-content-center
       .col-md-6.col-lg-4.mb-5.mb-lg-0.row2
@@ -61,7 +61,7 @@
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-7
-        p Varios autores han considerado la capacidad de innovación como un prototipo de capacidad dinámica; principalmente, se encuentra una gran variedad de definiciones de estas capacidades, aunque en síntesis, corresponda a la habilidad de la empresa para crear, modificar o variar las operaciones y la cotidianidad que se encuentra arraigada como forma de hacer las cosas. Entonces, la capacidad innovadora es la habilidad para la transformación continua del conocimiento en la implementación de nuevas propuestas e ideas que benefician a los consumidores, a la sociedad y, por supuesto, a la misma empresa, a partir de la nueva oferta de productos, servicios o procesos, o la renovación de estos.
+        p Varios autores han considerado la <b> capacidad de innovación </b>como un prototipo de capacidad dinámica; principalmente, se encuentra una gran variedad de definiciones de estas capacidades, aunque en síntesis, corresponda a la habilidad de la empresa para crear, modificar o variar las operaciones y la cotidianidad que se encuentra arraigada como forma de hacer las cosas. Entonces, la capacidad innovadora es la habilidad para la transformación continua del conocimiento en la implementación de nuevas propuestas e ideas que benefician a los consumidores, a la sociedad y, por supuesto, a la misma empresa, a partir de la nueva oferta de productos, servicios o procesos, o la renovación de estos.
 
       .col-md-6.col-lg-5.mb-3
           figure
@@ -78,7 +78,7 @@
             p Es un elemento considerado en la capacidad de innovar, por la habilidad que representa y la motivación de las personas para obtener conocimiento y usarlo en el proceso de innovación.
           .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Integración de<br> conocimiento")
             p Representa el conjunto de conocimientos entre organizaciones y entre unidades funcionales, orientados hacia la colaboración, a partir de las interacciones y los intercambios de información promoviendo el trabajo colaborativo y colectivo. 
-          .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Reconfiguración de<br> conocimiento")
+          .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Reconfigura-<br>ción de<br> conocimiento")
             p Se interpreta como la generación de diferentes alternativas de configuración de capacidades y de creación de valor. En entornos de constante cambio, se evidencian las flexibilidades en la estructura y la transformación, aplicadas para efectuar los cambios necesarios a partir de la exploración y la evaluación del contexto.                         
       .col-lg-4
         figure
@@ -127,9 +127,10 @@
       .col-lg-10
 
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 1
-          br
-          em Momentos del proceso innovador 
+          p.mb-0 
+            b Figura 1 
+            | 
+            em Momentos del proceso innovador 
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-12.svg')  
 
@@ -173,13 +174,13 @@
 
         .row
           .col-md-6.mb-4.mb-md-0.p-y-5
-            h3 <em>Etnografías</em>
+            h3 Etnografías
             p Una herramienta muy utilizada por los antropólogos para describir costumbres y tradiciones de los seres humanos, conociendo la identidad de una colectividad, a partir de la observación al grupo de individuos por parte del investigador; esto se manifiesta durante un periodo de tiempo en el que se encuentra en contacto con ellos. Es una metodología que usualmente es complementada con entrevistas, para llegar a la información y los datos relevantes para la situación planteada.
           .col-md-6
             figure.px-5
               img(src='@/assets/curso/temas/tema1/img-17.svg')    
 
-    p.mb-3 Luego de la obtención de la información en el paso anterior, continuamos con la fase de idear la cual es muy importante para poner a prueba la creatividad y generar propuestas o soluciones, a los planteamientos realizados.
+    p.mb-3 Luego de la obtención de la información en el paso anterior, continuamos con la fase de<b> idear </b>la cual es muy importante para poner a prueba la creatividad y generar propuestas o soluciones, a los planteamientos realizados.
     p.mb-5 Algunas de las herramientas que apoyan la generación y organización de las ideas son:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -310,7 +311,7 @@
                 img(src='@/assets/curso/temas/tema1/img-27.svg')  
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
-              h3 Pensamiento de diseño <p><em>(Design Thinking)</em> </p>
+              h3 Pensamiento de diseño <p><em>(Design thinking)</em> </p>
               p Se trata del planteamiento ágil de una problemática y, posteriormente, se implementan soluciones con base en las necesidades de los consumidores, usuarios o clientes. Esta metodología se centra en encontrar, entender, crear, pensar y hacer, a partir de 5 pasos: empatía, definir, idear, prototipar y probar.
             .col-md-5.px-5
               figure
@@ -345,7 +346,7 @@
                 img(src='@/assets/curso/temas/tema1/img-32.svg')  
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
-              h3 Six Sigma
+              h3 <em> Six sigma</em> 
               p En ocasiones, esta metodología representa simplemente una medida de calidad; sin embargo, está basada en datos que son analizados y medidos de manera exigente, para identificar las causales de los errores y posibilidad que sean eliminadas desencadenando en la mayor satisfacción de los consumidores o clientes y, por ende, ahorros económicos y maximización de las utilidades.
             .col-md-5.px-5
               figure
@@ -356,7 +357,7 @@
               p Representan una herramienta de planificación de proyectos para las diferentes modalidades de empresa. Estos itinerarios tienen en cuenta la prospectiva de innovación de la organización y su desarrollo en un periodo de tiempo estacional, en procesos como: la identificación de nuevos mercados, nuevos productos o transformación de los ya existentes, competidores, entre otros. Esta metodología realiza una combinación de los objetivos de la empresa a corto plazo, con las soluciones tecnológicas específicas.
             .col-md-5.px-5
               figure
-                img(src='@/assets/curso/temas/tema1/img-34.svg')  
+                img(src='@/assets/curso/temas/tema1/img-34-.svg')  
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
               h3 Metodologías ágiles
@@ -431,9 +432,10 @@
       .col-lg-10
 
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2
-          br
-          em Principios de las metodologías ágiles
+          p.mb-0 
+            b Figura 2
+            | 
+            em Principios de las metodologías ágiles
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-43-.svg')      
 
