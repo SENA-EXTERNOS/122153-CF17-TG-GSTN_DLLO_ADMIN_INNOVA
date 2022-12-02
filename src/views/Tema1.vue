@@ -128,9 +128,8 @@
 
         .titulo-sexto.color-acento-contenido.mb-4
           p.mb-0 
-            b Figura 1 
-            | 
-            em Momentos del proceso innovador 
+            b Figura 1. 
+            |  Momentos del proceso innovador 
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-12.svg')  
 
@@ -325,21 +324,21 @@
                 img(src='@/assets/curso/temas/tema1/img-29.svg')  
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
-              h3 Innovación abierta <p><em>(Open Innovation)</em> </p>
+              h3 Innovación abierta <p><em>(Open innovation)</em> </p>
               p Es una metodología orientada a la colaboración con profesionales externos y la mezcla con los conocimientos internos, para el planteamiento e impulso de proyectos de investigación y desarrollo. Consiste principalmente en dos actividades: la primera, lograr que la empresa se permee de conocimiento del entorno y, la segunda, llevar el conocimiento interno al exterior.  
             .col-md-5.px-5
               figure
                 img(src='@/assets/curso/temas/tema1/img-30.svg')                                            
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
-              h3 <em>Project Management</em>
+              h3 <em>Project management</em>
               p Esta metodología nació con el propósito de establecer estándares para la dirección de proyectos, reduciendo el riesgo en el proceso empresarial e incrementando los resultados en materia de innovación. Su aplicación se encuentra resumida en los siguientes pasos: inicio, planificación, ejecución, supervisión, control y cierre; es una metodología aplicable para proyectos de dimensiones amplias, presupuestos elevados y alta incertidumbre.
             .col-md-5
               figure
                 img(src='@/assets/curso/temas/tema1/img-31.svg')    
           .row
             .col-md-7.mb-4.mb-md-0.p-y-5
-              h3 Planificación de escenarios <p><em>(Scenario Planning)</em> </p>
+              h3 Planificación de escenarios <p><em>(Scenario planning)</em> </p>
               p Consiste en la planeación de la estrategia de las empresas para flexibilizar la planeación a largo plazo. Se construyen escenarios para mejorar la toma de decisiones, simulando las situaciones que podrían llegar a presentarse; estos escenarios deben ser narrados con detalle, para evaluar la probabilidad de éxito o fracaso de las alternativas, permitiendo la minimización del riesgo y la efectividad y asertividad programada de las decisiones.
             .col-md-5.px-5
               figure
@@ -433,9 +432,8 @@
 
         .titulo-sexto.color-acento-contenido.mb-4
           p.mb-0 
-            b Figura 2
-            | 
-            em Principios de las metodologías ágiles
+            b Figura 2. 
+            | Principios de las metodologías ágiles
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-43-.svg')      
 

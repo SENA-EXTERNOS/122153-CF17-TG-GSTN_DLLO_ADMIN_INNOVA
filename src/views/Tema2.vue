@@ -238,9 +238,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3 
-          br
-          em Pasos para generar indicadores de gestión
+          p.mb-0 
+            b Figura 3. 
+            |  Pasos para generar indicadores de gestión
 
         figure.px-3
           img(src='@/assets/curso/temas/tema2/img-13-.svg')  
