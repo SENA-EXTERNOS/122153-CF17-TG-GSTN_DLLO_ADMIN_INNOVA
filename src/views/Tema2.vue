@@ -15,9 +15,9 @@
             img(src='@/assets/curso/temas/tema2/img-1.svg')
 
       .col-md-6.col-lg-7
-        p Es importante conocer que el análisis que se despliega a partir de la generación de información en la fase diagnóstica de una empresa, proporciona, a la organización, la oportunidad de generar soluciones ante sus necesidades, dependiendo ellas, de su situación en el mercado, su situación interna y sus objetivos a futuro y contemplando en esto, las posibilidades de ser innovadores en sus prácticas.
+        p Es importante conocer que el análisis que se despliega a partir de la generación de información en la fase diagnóstica de una empresa, proporciona, a la organización, la oportunidad de generar soluciones ante sus necesidades; dependiendo ellas, de su situación en el mercado, de su situación interna y de sus objetivos a futuro y, contemplando en esto, las posibilidades de ser innovadores en sus prácticas.
 
-    p.mb-5 Existen dos tipos de diagnóstico organizacional, el funcional y el cultural, y a partir de ellos puede darse la<b> captura de información</b> relevante para la empresa y sus requerimientos.
+    p.mb-5 Existen dos tipos de diagnóstico organizacional, el funcional y el cultural, y a partir de ellos puede darse la #[b captura de información] relevante para la empresa y sus requerimientos:
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4
@@ -102,14 +102,13 @@
                 i.fas.fa-check
                 | Análisis de redes de comunicación: se analiza cómo es la comunicación entre las personas dentro de la organización.
 
-    p.mb-5 Ahora, la obtención de información viabiliza el uso de esa información para la toma de decisiones, a partir del análisis e interpretación; para esto, existen unas herramientas y técnicas, una vez se cuenta con el contenido del diagnóstico, que se presenta en el siguiente tema. 
+    p.mb-5 Ahora, la obtención de información hace viable el uso de esa información para la toma de decisiones, a partir del análisis e interpretación. Para esto, existen unas herramientas y técnicas, que se aplican una vez que se cuenta con el contenido del diagnóstico.
 
     separador 
 
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1 Instrumentos y matrices de análisis estratégico
-    p.mb-5 Existen instrumentos que apoyan y guían el levantamiento de la información necesaria para realizar un diagnóstico preciso y adecuado, porque en sí mismo, el diagnóstico es la herramienta de análisis. Contar con un diagnóstico integral impide cometer errores de forma reiterativa, o simplemente, generar acciones basadas en percepciones o creencias alejadas de la realidad, que terminan propiciando situaciones no deseadas.
-    p.mb-5 Por esta razón, a continuación se presentan algunos instrumentos de análisis estratégico:
+    p.mb-5 A continuación, se presentan algunos instrumentos de análisis estratégico:
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Análisis PESTEL")
@@ -185,8 +184,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Matrices análisis estratégico
-                  p.text-small Para ampliar esta información se invita al aprendiz a explorar el el documento<b> Matrices análisis estratégico. </b>
+                  h4.mb-1 Matrices análisis estratégico
+                  p.text-small #[b ¡Tenga presente!] Determinadas matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión. Analice algunas de ellas en el documento #[b Matrices análisis estratégico.]
 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('downloads/matrices_analisis_estrategico_anexo_cf17.pdf')" target="_blank")
@@ -231,16 +230,17 @@
 
     p.mb-5 Existen diversos tipos de indicadores de gestión:
     figure.mb-5 
-      img(src='@/assets/curso/temas/tema2/img-12-.png')
+      img(src='@/assets/curso/temas/tema2/img-12-.svg')
 
-    p.mb-5 Ahora, para generar o crear indicadores de gestión, se deben tener en cuenta diferentes pasos, evidenciados en la Figura 3, porque el nivel de credibilidad y certeza del indicador dependerá de su asertividad en la formulación. 
+    p.mb-5 Ahora, para generar o crear indicadores de gestión, se deben tener en cuenta diferentes pasos, evidenciados en la figura siguiente, porque el nivel de credibilidad y certeza del indicador, dependerá de su asertividad en la formulación:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
           p.mb-0 
-            b Figura 3. 
-            |  Pasos para generar indicadores de gestión
+            b Figura 3
+            br
+            |  #[em Pasos para generar indicadores de gestión]
 
         figure.px-3
           img(src='@/assets/curso/temas/tema2/img-13-.svg')  

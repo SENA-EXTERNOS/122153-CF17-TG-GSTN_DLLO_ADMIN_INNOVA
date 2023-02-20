@@ -125,11 +125,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-
-        .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 
-            b Figura 1. 
-            |  Momentos del proceso innovador 
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 1
+          br
+          span.fst-italic Momentos del proceso innovador
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-12.svg')  
 
@@ -233,7 +232,8 @@
 
       .col-lg-10
         .cajon.color-acento-botones.p-4.fnd-2
-            p Algunos de los beneficios de esta técnica son: el fomento del pensamiento de forma paralela, el impulso del pensamiento en toda su dimensión, diferenciar y separar el ego del desempeño. El hacer uso de este método, permite tener la visión integral del problema o reto a tratar. El tiempo de uso de cada sombrero debe ser limitado y corto, aproximadamente 1 minuto, para que sea aprovechado y se logren varias opiniones o propuestas en poco tiempo. Una vez que los roles dan su opinión, el sombrero azul tiene la potestad para cambiarlos, incluyendo el suyo propio.
+            h4.mb-2 Algunos de los beneficios de esta técnica son:
+            p El fomento del pensamiento de forma paralela, el impulso del pensamiento en toda su dimensión, diferenciar y separar el ego del desempeño. El hacer uso de este método, permite tener la visión integral del problema o reto a tratar. El tiempo de uso de cada sombrero debe ser limitado y corto, aproximadamente 1 minuto, para que sea aprovechado y se logren varias opiniones o propuestas en poco tiempo. Una vez que los roles dan su opinión, el sombrero azul tiene la potestad para cambiarlos, incluyendo el suyo propio.
 
     p.mb-3 En el recorrido de las fases anteriores, se cuenta con la problemática identificada y con las ideas o propuestas de solución; ahora, el paso siguiente es la <b>realización/implementación,</b> donde se materializa y se actúa sobre lo analizado, con antelación. Una de las herramientas que aporta para dar estructura a este proceso, es la denominada prueba de concepto, tipo de investigación de mercados, que implica hacer preguntas y cuestionamientos a los consumidores o clientes, antes de salir con el producto o servicio al mercado; es la alternativa de poner a prueba la aceptación que tendría y la intención de adquirirlo o pagar por él. Los elementos adquiridos mediante las pruebas de concepto, ayudan a diseñar productos o servicios eficientes para el mercado.
     p.mb-5 Existen varias formas para realizar las pruebas de concepto, entre ellas están:
@@ -370,6 +370,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-5.fnd-2.px-5
+            h4 ¡Nota importante!
             p Las metodologías de innovación son consideradas como la hoja de ruta que da una organización al proceso creativo, generando eficiencias en el uso de los recursos, enfoque en las metas, o resultados y la maximización de la utilidad. 
 
 
@@ -425,21 +426,21 @@
         p.text-center.px-3 <b>Reducción de costos,</b>  a partir de la gestión ágil del proyecto y logrando con ello la eliminación del escenario de fracaso, a través de la identificación de errores a lo largo del desarrollo de este. 
 
 
-    p.mb-5 En la figura 2 se dan a conocer los principios de las metodologías ágiles, los cuales surgen para facilitar la comprensión del concepto.
+    p.mb-5 En la siguiente figura, se dan a conocer los principios de las metodologías ágiles, los cuales surgen para facilitar la comprensión del concepto.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-
-        .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 
-            b Figura 2. 
-            | Principios de las metodologías ágiles
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 2 
+          br
+          span.fst-italic Principios de las metodologías ágiles
         figure.px-3
           img(src='@/assets/curso/temas/tema1/img-43-.svg')      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-5.fnd-2.px-5
+            h4 ¡Importante!
             p Con metodologías ágiles, los profesionales pueden estar lo suficientemente preparados para tomar decisiones imprevistas y cambiar la orientación de los proyectos, siendo flexibles en el actuar y el proceder, sin que la empresa se afecte por daños irreversibles. 
 
     p.mb-5 Las metodologías ágiles que se explican a continuación, permiten la alineación entre los equipos de trabajo y el cliente o consumidor, así como también la identificación y resolución de problemáticas de forma ágil, la respuesta oportuna, la reducción de los riesgos, y un proyecto de calidad.

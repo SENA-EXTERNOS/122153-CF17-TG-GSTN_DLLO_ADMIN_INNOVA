@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Innovación, análisis y diagnóstico organizacional',
     descripcionCurso:
-      'Este componente formativo presenta conceptos relevantes sobre la innovación empresarial, vista desde el diagnóstico y el análisis empresarial. Metodologías y herramientas que se utilizan para dar orden al proceso innovativo y a la fase diagnóstica; todo esto, incluido como aportes para la toma de decisiones y la evolución empresarial, que exigen la permanencia en el mercado actual dinámico y flexible.',
+      'Este componente formativo aborda conceptos y procesos relevantes sobre la innovación en las organizaciones, vista desde el diagnóstico y el análisis empresarial. Metodologías y herramientas que se utilizan para dar orden al proceso innovativo y a la fase diagnóstica; todo esto, como aportes para la toma de decisiones y la evolución de las empresas, lo cual exige la permanencia en el mercado actual, dinámico y flexible.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
