@@ -11,8 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Innovación, análisis y diagnóstico organizacional
-        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
-          | De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

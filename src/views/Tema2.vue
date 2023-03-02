@@ -171,9 +171,7 @@
           h3.text-center Matrices de evaluación
           p.text-center Proporcionan una valoración de aspectos internos o externos de la empresa, para proyectar una orientación acerca de la estrategia a emprender, de acuerdo con la realidad evidenciada.
 
-    p.mb-5 ¡Tenga presente! Determinadas matrices existentes sirven para apoyar las diferentes etapas en las que se puede requerir el análisis estratégico; por ejemplo, hay matrices que resultan útiles para la recopilación de información, otras para el proceso de adaptación y otras para el proceso de decisión. Analice algunas de ellas en el documento <b>Matrices análisis estratégico</b>.
-
-
+    
 
     .row.justify-content-center.mb-5
       .col-md-8.col-lg-10
