@@ -27,7 +27,7 @@
           .ini.fnd-6.color-primario.b-r-i
             .p-4.mt-3
               spam.text-center 
-                h2.b Modelo lineal 
+                h4.b Modelo lineal 
                   | 
                   p <em>(enfoque pull)</em> 
               p.text-center Está relacionado con el impulso de la demanda y la investigación; como resultado de ese impulso, se generan resultados para la fabricación o creación de nuevos productos o servicios. 
@@ -36,14 +36,14 @@
           img(src='@/assets/curso/temas/tema1/img-3.svg' alt='AvatarTop')
           .ini.fnd-6-.color-primario
             .p-4.mt-3
-              h2.text-center Modelo mixto 
+              h4.text-center Modelo mixto 
               p.text-center Reconoce la importancia de la retroactividad del producto o servicio, desde el mercado.
       .col-md-6.col-lg-4.mb-5.mb-lg-0.row2
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img-4.svg' alt='AvatarTop')
           .ini.fnd-6.color-primario.b-r-d  
             .p-4.mt-3
-              h2.text-center Enfoque <em>push</em> 
+              h4.text-center Enfoque <em>push</em> 
               p.text-center Sucede cuando primero se desarrolla el producto o servicio, y luego se trata de introducir al mercado, descubriendo sus diferentes utilidades y explorando sus potencialidades.
 
 
