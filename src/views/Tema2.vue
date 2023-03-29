@@ -305,7 +305,7 @@
     p.mb-5 Para finalizar, hablemos sobre los informes de diagnóstico, y para hacerlo, lo invitamos a ver el siguiente video.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-UKH6DAW2cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 
     p.mb-5 Finalizamos así la temática sobre innovación, análisis y diagnóstico empresarial.
